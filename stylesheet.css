@@ -6,8 +6,6 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
-
 input,
 select {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -16,6 +14,7 @@ select {
     border-radius: 5px;
     border: 2px solid lime;
     padding: 5px;
+
 
 }
 
